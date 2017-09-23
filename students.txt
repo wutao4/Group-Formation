@@ -1,5 +1,5 @@
 # Please follow the format Student 1: Name of student (Student ID)
-Student 1:
-Student 2:
-Student 3:
-Student 4:
+Student 1:Dingjie Wang (999876353)
+Student 2:Tao Wu (1002106008)
+Student 3:Zhihuan Yu (1002106650)
+Student 4:Zhoujie Zhao (1002111010)
